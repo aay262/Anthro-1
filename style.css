@@ -1,6 +1,8 @@
 #article-title {
   font-family:'Staatliches', cursive;
-  color: umber;
+}
+.title {
+  color: maroon;
 }
 
 
