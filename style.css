@@ -2,14 +2,19 @@
   font-family:'Staatliches', cursive;
   font-size: xx-large;
 }
+
+h1 {
+  text-align: center
+}
 .title {
   color: maroon;
 }
 
 a {
   font-family: 'Raleway', sans-serif;
-  text-align:right;
+
 }
+
 
 .font {
   font-family: 'Raleway', sans-serif;
@@ -18,4 +23,7 @@ a {
 
 .size {
   font-size: small;
+}
+.align {
+  text-align: right;
 }
