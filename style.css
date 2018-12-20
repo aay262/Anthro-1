@@ -1,8 +1,9 @@
 #article-title {
   font-family:'Inconsolata', monospace;
   font-size: 50px;
+  text-align: center;
 }
-h1, h3 {
+h3 {
   text-align: center;
 }
 h2 {
