@@ -3,12 +3,11 @@
   font-size: 30px;
 }
 
-h1 {
+h1, h3,
+ h4 {
   text-align: center;
 }
-h3 {
-  text-align: center;
-}
+
 h2 {
   text-align: right;
 }
