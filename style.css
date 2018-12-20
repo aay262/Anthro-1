@@ -3,7 +3,9 @@
   font-size: 50px;
 }
 
-h1,
+h1 {
+  text-align: left;
+}
 h3 {
   text-align: center
 }
