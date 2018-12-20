@@ -3,11 +3,13 @@
   font-size: 30px;
 }
 
-h1, h3, h4,
+h1, h3, h4
  {
   text-align: center;
 }
-
+h3 {
+  text-align: center;
+}
 h2 {
   text-align: right;
 }
@@ -21,7 +23,7 @@ a {
   font-family: 'inconsolata', monospace;
 }
 .size {
-  font-size: medium;
+  font-size: small;
 }
 .highlightme {
   background-color:#FFFF00; }
