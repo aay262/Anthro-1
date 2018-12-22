@@ -21,7 +21,7 @@ nav ul li {
     display: inline-block; /* Arrange list items in horizontal line */
     list-style-type: none; /* We don't want bullets on our items */
     margin: 0;
-    padding: 10px 0; /* Sets height of nav bar */
+    padding: 13px 0; /* Sets height of nav bar */
   }
 .title {
   color: black;
